@@ -99,18 +99,18 @@ Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerl
 ---
 ---
 # Más sobre mí
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=santiceaglio&theme=blue-green)
+<!--![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=santiceaglio&theme=blue-green)-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiceaglio&label=Profile%20views&color=0e75b6&style=flat" alt="santiceaglio" /> </p>
 
 ![github](https://img.shields.io/github/followers/santiceaglio?style=social)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santiceaglio&show_icons=true&locale=en" alt="santiceaglio" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santiceaglio&show_icons=true&locale=en" alt="santiceaglio" /></p>-->
 
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=santiceaglio&show_icons=true)
+<!--![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=santiceaglio&show_icons=true)-->
 
 
 
