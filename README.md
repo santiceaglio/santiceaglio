@@ -26,9 +26,13 @@ Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerl
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
+
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://icongr.am/devicon/django-original.svg?size=128&color=212121" alt="django" width="40" height="40"/>
+  </a>
  
  <a href="#">
-  <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=148&color=ffffff" alt="Express" width="60" height="40" />
+  <img src="https://icongr.am/devicon/express-original.svg?size=128&color=ff0000" alt="Express" width="60" height="40" />
  </a>
  <a href="#">
   <img src="https://icongr.am/devicon/sequelize-original.svg?size=148&color=currentColor" alt="Sequelize" width="40" height="40" />
