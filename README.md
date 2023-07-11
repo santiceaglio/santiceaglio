@@ -85,7 +85,7 @@ Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerl
 ---
 ---
 
-# Contact me
+### Contact me
 
 * ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)   : <santiceagliohf@gmail.com>
 
@@ -98,7 +98,7 @@ Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerl
 
 ---
 ---
-# More about me
+### More about me
 <!--![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=santiceaglio&theme=blue-green)-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiceaglio&label=Profile%20views&color=0e75b6&style=flat" alt="santiceaglio" /> </p>
