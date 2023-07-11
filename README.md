@@ -10,8 +10,8 @@
 ---
 
 ### About me
-Hola 👋, mi nombre es Santiago es un placer que visites mi perfil, podes darle al follow ☺️ , me dedico al Desarrollo Web, al principio lo hice de manera auto didacta, aprendiendo HTML5, CSS3 y JS, también realice proyectos con dichos lenguajes, pero quería aprender más, quería llegar a otro nivel, por lo que me apliqué al bootcamp de Henry en el cual aprendí mucho en muy poco tiempo, y la verdad estoy muy contento con mi avance.
-Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerlo, para poder vivir de lo que me gusta y fascina.
+Hello 👋, my name is Santiago is a pleasure to visit my profile, you can follow me ☺️ , I am dedicated to Web Development, at first I did it in a self didactic way, learning HTML5, CSS3 and JS, I also made projects with these languages, but I wanted to learn more, I wanted to reach another level, so I applied to the bootcamp of Henry in which I learned a lot in a very short time, and the truth is I am very happy with my progress.
+I still have a lot to learn and I am willing to put all of me to do it, to be able to make a living from what I like and fascinates me.
 
 ---
 ---
@@ -27,9 +27,9 @@ Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerl
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
 
-  <a href="#" target="_blank" rel="noreferrer">
+  <!--<a href="#" target="_blank" rel="noreferrer">
     <img src="https://icongr.am/devicon/django-original.svg?size=128&color=212121" alt="django" width="40" height="40"/>
-  </a>
+  </a>-->
  
  <a href="#">
   <img src="https://icongr.am/devicon/express-original.svg?size=128&color=ff0000" alt="Express" width="60" height="40" />
