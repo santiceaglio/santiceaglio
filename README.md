@@ -5,18 +5,18 @@
 
 
 <!-- Comentario -->
-<h3 align="center">:computer:  Un apasionado desarrollador Full-Stack de Argentina  :computer:</h3>
+<h3 align="center">:computer:  Desarrollador Full-Stack Argentino  :computer:</h3>
 
 ---
 
-### Sobre mí
+### About me
 Hola 👋, mi nombre es Santiago es un placer que visites mi perfil, podes darle al follow ☺️ , me dedico al Desarrollo Web, al principio lo hice de manera auto didacta, aprendiendo HTML5, CSS3 y JS, también realice proyectos con dichos lenguajes, pero quería aprender más, quería llegar a otro nivel, por lo que me apliqué al bootcamp de Henry en el cual aprendí mucho en muy poco tiempo, y la verdad estoy muy contento con mi avance.
 Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerlo, para poder vivir de lo que me gusta y fascina.
 
 ---
 ---
 
-### Lenguages y Herramientas
+### Lenguages & Tools
 
 <p align="left"> 
   <a href="#">
@@ -85,7 +85,7 @@ Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerl
 ---
 ---
 
-# Contáctame
+# Contact me
 
 * ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)   : <santiceagliohf@gmail.com>
 
@@ -98,7 +98,7 @@ Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerl
 
 ---
 ---
-# Más sobre mí
+# More about me
 <!--![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=santiceaglio&theme=blue-green)-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiceaglio&label=Profile%20views&color=0e75b6&style=flat" alt="santiceaglio" /> </p>
