@@ -27,9 +27,9 @@ I still have a lot to learn and I am willing to put all of me to do it, to be ab
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
 
-  <!--<a href="#" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img src="https://icongr.am/devicon/django-original.svg?size=128&color=212121" alt="django" width="40" height="40"/>
-  </a>-->
+  </a>
  
  <a href="#">
   <img src="https://icongr.am/devicon/express-original.svg?size=128&color=ff0000" alt="Express" width="60" height="40" />
